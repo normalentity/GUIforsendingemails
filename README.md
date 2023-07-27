@@ -1,6 +1,6 @@
 
 “Introducing my new open-source project: a fast and efficient GUI for sending emails! With this tool, you can quickly compose and send emails with ease, without having to navigate through clunky interfaces or slow-loading pages. The intuitive design and user-friendly features make it a breeze to use, and it’s completely free to download and use. Check it out and let me know what you think!” 😊
-# GUIforsendingemails
+# How to Use
 
 This program allows you to send emails easily
  download the py file and run it 
